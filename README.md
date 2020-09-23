@@ -18,7 +18,7 @@
 
 <!-- [![raxetul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxetul&show_icons=true)](https://github.com/raxetul) -->
 
-[![raxetul's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raxetul&layout=compact&theme=radical)](https://github.com/raxetul)
+[![raxetul's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raxetul&layout=compact&theme=onedark)](https://github.com/raxetul)
 
 ### Social
 [![Twitter: Emrah Urhan](https://img.shields.io/twitter/follow/raxetul?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
