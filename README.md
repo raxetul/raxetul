@@ -10,7 +10,7 @@
 <!-- - 😄 &nbsp; Pronouns: -->
 
 ### Social
-[![Twitter: Emrah Urhan](https://img.shields.io/twitter/follow/san_dip_subedi?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
+[![Twitter: Emrah Urhan](https://img.shields.io/twitter/follow/raxetul?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
 [![Linkedin: Emrah Urhan](https://img.shields.io/badge/-emrah-urhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/emrah-urhan)](www.linkedin.com/in/emrah-urhan) &nbsp;
 [![GitHub Emrah Urhan]https://img.shields.io/github/followers/raxetul?label=follow&style=social)](https://github.com/raxetul)
 
