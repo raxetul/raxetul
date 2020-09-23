@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi there, thanks for stopping by. I am Emrah. Currently based in Kansas City. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, thanks for stopping by. I am Emrah. Currently based in Ankara. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### About me
 
@@ -11,17 +11,16 @@
 
 ### Social
 [![Twitter: Emrah Urhan](https://img.shields.io/twitter/follow/raxetul?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
-[![Linkedin: Emrah Urhan](https://img.shields.io/badge/-emrah-urhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/emrah-urhan)](www.linkedin.com/in/emrah-urhan) &nbsp;
+[![Linkedin: Emrah Urhan](https://img.shields.io/badge/-raxetul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrah-urhan)](www.linkedin.com/in/emrah-urhan) &nbsp;
 [![GitHub Emrah Urhan]https://img.shields.io/github/followers/raxetul?label=follow&style=social)](https://github.com/raxetul)
 
 
 ### Tech Stack
-- 💻  &nbsp; Ruby | JavaScript | Java | C# | Python | Go
-- 🌐  &nbsp; HTML 5 | HAML | CSS 3 | jQuery | JSON | Bootstrap 4 | React.js
-- 🧰  &nbsp; Ruby on Rails | Express.js | ASP.NET | JavaFX
-- 💾  &nbsp; Postgres SQL | MongoDB | MySQL
-- 📦  &nbsp;  Active Record | Sequelize | Mongoose
-- 🛠️  &nbsp; Node.js | Android Development | Internet of Things (IoT) | Version Control (Git & Tortoise SVN) | Amazon Alexa
+- 💻  &nbsp; JavaScript | Java | Python | Go | C++
+- 🧰  &nbsp; Qt | Express.js | SpringBoot
+- 💾  &nbsp; PostgresSQL | MySQL | MongoDB
+- 📦  &nbsp; JPA | Hibernate | Mongoose
+- 🛠️  &nbsp; Node.js
 
 [![raxetul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxetul&show_icons=true)](https://github.com/raxetul)
 
