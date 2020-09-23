@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Emrah Urhan / raxetul.
-[![1000x420](https://gfycat.com/tightsoggyjabiru "Emrah Urhan")](https://github.com/raxetul)
+
+![Emrah](https://media.giphy.com/media/WiIuC6fAOoXD2/giphy.gif)
 
 ### About me
 
