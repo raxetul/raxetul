@@ -9,12 +9,6 @@
 <!-- - 📫 &nbsp; How to reach me:  -->
 <!-- - 😄 &nbsp; Pronouns: -->
 
-### Social
-[![Twitter: Emrah Urhan](https://img.shields.io/twitter/follow/raxetul?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
-[![Linkedin: Emrah Urhan](https://img.shields.io/badge/-raxetul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrah-urhan)](www.linkedin.com/in/emrah-urhan) &nbsp;
-[![GitHub Emrah Urhan](https://img.shields.io/github/followers/raxetul?label=follow&style=social)](https://github.com/raxetul)
-
-
 ### Tech Stack
 - 💻  &nbsp; JavaScript | Java | Python | Go | C++
 - 🧰  &nbsp; Qt | Express.js | SpringBoot
@@ -22,10 +16,14 @@
 - 📦  &nbsp; JPA | Hibernate | Mongoose
 - 🛠️  &nbsp; Node.js
 
-[![raxetul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxetul&show_icons=true)](https://github.com/raxetul)
+<!-- [![raxetul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxetul&show_icons=true)](https://github.com/raxetul) -->
 
 [![raxetul's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raxetul&layout=compact&theme=radical)](https://github.com/raxetul)
 
+### Social
+[![Twitter: Emrah Urhan](https://img.shields.io/twitter/follow/raxetul?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
+[![Linkedin: Emrah Urhan](https://img.shields.io/badge/-raxetul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrah-urhan)](www.linkedin.com/in/emrah-urhan) &nbsp;
+[![GitHub Emrah Urhan](https://img.shields.io/github/followers/raxetul?label=follow&style=social)](https://github.com/raxetul)
 ![](https://visitor-badge.glitch.me/badge?page_id=raxetul.github)
 
 
