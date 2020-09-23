@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-## Hi there, thanks for stopping by. I am Emrah. Currently based in Ankara. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 ### About me
 
-- 🔭 &nbsp; I’m currently working for Inofab Health to make world breath again.
+- 🔭 &nbsp; I’m currently working for Inofab Health to make the World breath again.
 - 🌱 &nbsp; I’m currently learning AWS
 <!-- - 📫 &nbsp; How to reach me:  -->
 <!-- - 😄 &nbsp; Pronouns: -->
