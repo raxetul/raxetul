@@ -26,7 +26,7 @@
 
 [![raxetul's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raxetul&layout=compact&theme=radical)](https://github.com/raxetul)
 
-![](https://visitor-badge.glitch.me/badge?page_id=raxetul.raxetul)
+![](https://visitor-badge.glitch.me/badge?page_id=raxetul.github)
 
 
 <!--
