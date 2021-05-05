@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Emrah Urhan / raxetul.
 
-![Emrah](https://media.giphy.com/media/WiIuC6fAOoXD2/giphy.gif)
+![Emrah](https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
 
 ### About me
 
