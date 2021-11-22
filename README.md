@@ -22,7 +22,7 @@
 
 ### Social
 [![Twitter: Emrah Urhan](https://img.shields.io/twitter/follow/raxetul?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
-[![Linkedin: Emrah Urhan](https://img.shields.io/badge/-raxetul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrah-urhan)](www.linkedin.com/in/emrah-urhan) &nbsp;
+[![Linkedin: Emrah Urhan](https://img.shields.io/badge/-emrahurhan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emrah-urhan) &nbsp;
 [![GitHub Emrah Urhan](https://img.shields.io/github/followers/raxetul?label=follow&style=social)](https://github.com/raxetul)
 ![](https://visitor-badge.glitch.me/badge?page_id=raxetul.github)
 
