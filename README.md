@@ -1,19 +1,17 @@
 # Hi there 👋 I'm Emrah Urhan / raxetul.
 
-![Emrah](https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
-
 ### About me
 
-- 🔭 &nbsp; I’m currently working for Inofab Health to make the World breath again.
-- 🌱 &nbsp; I’m currently learning AWS
+- 🔭 &nbsp; I’m currently working for OBSS Tech as a consaltant.
+- 🔭 &nbsp; worked for Inofab Health
 <!-- - 📫 &nbsp; How to reach me:  -->
 <!-- - 😄 &nbsp; Pronouns: -->
 
 ### Tech Stack
-- 💻  &nbsp; JavaScript | Java | Python | Go | C++
-- 🧰  &nbsp; Qt | Express.js | SpringBoot
+- 💻  &nbsp; Typescript | JavaScript | Java | Python | Rust | C++
+- 🧰  &nbsp; Qt | Nestjs| SpringBoot
 - 💾  &nbsp; PostgresSQL | MySQL | MongoDB
-- 📦  &nbsp; JPA | Hibernate | Mongoose
+- 📦  &nbsp; Prisma | JPA | Hibernate
 - 🛠️  &nbsp; Node.js
 
 <!-- [![raxetul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxetul&show_icons=true)](https://github.com/raxetul) -->
