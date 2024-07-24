@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🔭 &nbsp; I’m currently working for OBSS Tech as a consaltant.
+- 🔭 &nbsp; I’m currently working for oNabu, ACMAgile
 - 🔭 &nbsp; worked for Inofab Health
 <!-- - 📫 &nbsp; How to reach me:  -->
 <!-- - 😄 &nbsp; Pronouns: -->
