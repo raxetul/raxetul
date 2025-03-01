@@ -2,8 +2,8 @@
 
 ### About me
 
-- 🔭 &nbsp; I’m currently working for [oNaBu](https://onabu.io) &nbsp;, ACMAgile
-- 🔭 &nbsp; worked for Inofab Health
+- 🔭 &nbsp; I’m currently looking for new opportunities...
+- 🔭 &nbsp; worked for oNabu, Inofab Health, and so many companies... t
 <!-- - 📫 &nbsp; How to reach me:  -->
 <!-- - 😄 &nbsp; Pronouns: -->
 
