@@ -3,20 +3,17 @@
 ### About me
 
 - 🔭 &nbsp; I’m currently looking for new opportunities...
-- 🔭 &nbsp; worked for oNabu, Inofab Health, and so many companies...
+- 🔭 &nbsp; working for Udo Games, worked for oNabu, Inofab Health, and so many companies...
 <!-- - 📫 &nbsp; How to reach me:  -->
 <!-- - 😄 &nbsp; Pronouns: -->
 
 ### Tech Stack
-- 💻  &nbsp; Typescript | JavaScript | Java | Python | Rust | C++
-- 🧰  &nbsp; Qt | Nestjs| SpringBoot
-- 💾  &nbsp; PostgresSQL | MySQL | MongoDB
-- 📦  &nbsp; Prisma | JPA | Hibernate
+- 💻  &nbsp; Typescript | JavaScript | Java | Python | GoLang | C++
+- 🧰  &nbsp; Qt | Nestjs| Spring
+- 💾  &nbsp; PostgresSQL | MySQL | MongoDB | ClickHouse
+- 📦  &nbsp; Prisma | JPA | Hibernate | TypeORM
 - 🛠️  &nbsp; Node.js
 
-<!-- [![raxetul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxetul&show_icons=true)](https://github.com/raxetul) -->
-
-[![raxetul's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raxetul&layout=compact&theme=onedark)](https://github.com/raxetul)
 
 ### Social
 [![Twitter: Emrah Urhan](https://img.shields.io/twitter/follow/raxetul?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
