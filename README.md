@@ -8,11 +8,11 @@
 <!-- - 😄 &nbsp; Pronouns: -->
 
 ### Tech Stack
-- 💻  &nbsp; Typescript | JavaScript | Java | Python | GoLang | C++
+- 💻  &nbsp; Typescript | Java | Python | GoLang | C++ | Rust
 - 🧰  &nbsp; Qt | Nestjs| Spring
 - 💾  &nbsp; PostgresSQL | MySQL | MongoDB | ClickHouse
 - 📦  &nbsp; Prisma | JPA | Hibernate | TypeORM
-- 🛠️  &nbsp; Node.js
+- 🛠️  &nbsp; Node.js | Rust
 
 
 ### Social
